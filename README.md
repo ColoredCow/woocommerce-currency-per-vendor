@@ -1,6 +1,6 @@
 # WooCommerce Currency Per Vendor
 
-An extension that let's you specify currency specific to a vendor in a multi-vendor eCommerce store.
+A WooCommerce multi-vendor extension that let's you set currency specific to each vendor in a multi-vendor eCommerce store.
 
 ## Dependencies
 
